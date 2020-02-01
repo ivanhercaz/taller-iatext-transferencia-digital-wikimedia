@@ -6,8 +6,8 @@ AUTHOR = "Iván Hernández Cazorla"
 SITENAME = "Taller de transferencia digital y conocimiento libre para investigadores"
 SITEURL = ""
 
-PATH = "contenido"
-OUTPUT_PATH = "taller"
+PATH = "taller"
+OUTPUT_PATH = "sitio"
 
 TIMEZONE = "Atlantic/Canary"
 
