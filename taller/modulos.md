@@ -6,7 +6,12 @@ tags: información
 status: published
 slug: modulos
 
-El taller se divide en 6 módulos destinados a la obtención de los objetivos mencionados arriba.
+El taller se divide en 6 módulos destinados a la obtención de los objetivos mencionados. Cada
+ módulo consta de:
+
+  - Una clase teórico-práctica.
+  - Un cuestionario sobre la materia del módulo a realizar durante la semana.
+  - Actividades complementarios de carácter opcional.
 
 ### 1. Proyectos Wikimedia, conocimiento y licencias libres, e investigación
 
