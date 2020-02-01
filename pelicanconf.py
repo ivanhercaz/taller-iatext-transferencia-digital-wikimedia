@@ -13,6 +13,17 @@ TIMEZONE = "Atlantic/Canary"
 
 DEFAULT_LANG = "es"
 
+THEME = "/home/ivanhercaz/Apps/buruma"
+THEME_LOGO = False
+
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n']
+}
+
+PLUGIN_PATHS = ['/home/ivanhercaz/Apps/pelican-plugins']
+
+PLUGINS = ['i18n_subsites']
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
