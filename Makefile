@@ -72,4 +72,9 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 
+deploy:
+	git clone --jobs 8 --recurse-submodules=i18n_subsites --shallow-submodules https://github.com/getpelican/pelican-plugins.git plugins
+	git clone https://github.com/ivanhercaz/buruma
+	make html
+
 .PHONY: html help clean regenerate serve serve-global devserver publish 
