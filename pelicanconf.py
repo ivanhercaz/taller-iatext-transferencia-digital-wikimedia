@@ -9,21 +9,27 @@ SITEURL = ""
 PATH = "taller"
 OUTPUT_PATH = "sitio"
 
+ARTICLE_URL = "{date:%Y}/{slug}.html"
+ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
+ARTICLE_PATHS = ["blog"]
+PAGE_URL = "{slug}.html"
+PAGE_SAVE_AS = "{slug}.html"
+
 TIMEZONE = "Atlantic/Canary"
 
-I18N_TEMPLATES_LANG = 'en'
+I18N_TEMPLATES_LANG = "en"
 DEFAULT_LANG = "es"
 
 THEME = "buruma"
 THEME_LOGO = False
 
 JINJA_ENVIRONMENT = {
-    'extensions': ['jinja2.ext.i18n']
+    "extensions": ["jinja2.ext.i18n"]
 }
 
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ["plugins"]
 
-PLUGINS = ['i18n_subsites']
+PLUGINS = ["i18n_subsites"]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -45,4 +51,4 @@ SOCIAL = (("You can add links in your config file", "#"),
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
