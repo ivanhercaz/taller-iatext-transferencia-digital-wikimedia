@@ -14,6 +14,7 @@ ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
 ARTICLE_PATHS = ["blog"]
 PAGE_URL = "{slug}.html"
 PAGE_SAVE_AS = "{slug}.html"
+PAGE_PATHS = ["."]
 
 TIMEZONE = "Atlantic/Canary"
 
