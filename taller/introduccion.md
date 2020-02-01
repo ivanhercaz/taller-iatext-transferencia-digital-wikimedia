@@ -1,10 +1,22 @@
-# Taller de transferencia digital y conocimiento libre para investigadores: proyectos Wikimedia, Scholia, ORCID y Source MetaData
+title: Introducción
+date: 2020-02-01 18:45
+author: Iván Hernández Cazorla
+category: Taller
+tags: información
+status: published
+slug: introduccion
+extract: Taller de introducción al conocimiento libre y enlazado a partir del
+ uso de los proyectos Wikimedia, de herramientas como Scholia y Source MetaData,
+ y de identificadores como Orcid. El principal objetivo es que los investigadores
+ del Instituto Universitario de Análisis y Aplicaciones Textuales tengan nociones
+ básicas sobre conocimiento libre, las licencias Creative Commons aplicables, los
+ los proyectos Wikimedia y algunas herramientas
 
 Taller de introducción al conocimiento libre y enlazado a partir del uso de los
-proyectos Wikimedia, de herramientas como Scholia y Source MetaData, y de
-identificadores como Orcid. El principal objetivo es que los investigadores del
-Instituto Universitario de Análisis y Aplicaciones Textuales tengan nociones
-básicas como:
+ proyectos Wikimedia, de herramientas como Scholia y Source MetaData, y de
+ identificadores como Orcid. El principal objetivo es que los investigadores del
+ Instituto Universitario de Análisis y Aplicaciones Textuales tengan nociones
+ básicas como:
 
   - Qué es el conocimiento libre y sus beneficios para la comunidad científica como:
   - Cómo surgieron los proyectos Wikimedia.
