@@ -5,16 +5,10 @@ category: Taller
 tags: información
 status: published
 slug: introduccion
-extract: Taller de introducción al conocimiento libre y enlazado a partir del
- uso de los proyectos Wikimedia, de herramientas como Scholia y Source MetaData,
- y de identificadores como Orcid. El principal objetivo es que los investigadores
- del Instituto Universitario de Análisis y Aplicaciones Textuales tengan nociones
- básicas sobre conocimiento libre, las licencias Creative Commons aplicables, los
- los proyectos Wikimedia y algunas herramientas
 
 Taller de introducción al conocimiento libre y enlazado a partir del uso de los
  proyectos Wikimedia, de herramientas como Scholia y Source MetaData, y de
- identificadores como Orcid. El principal objetivo es que los investigadores del
+ identificadores como ORCID. El principal objetivo es que los investigadores del
  Instituto Universitario de Análisis y Aplicaciones Textuales tengan nociones
  básicas como:
 
