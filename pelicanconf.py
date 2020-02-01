@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = "Iván Hernández Cazorla"
 SITENAME = "Taller de transferencia digital y conocimiento libre para investigadores"
-SITEURL = ""
+SITEURL = "https://taller-iatext.ivanhercaz.com"
 
 PATH = "taller"
 OUTPUT_PATH = "sitio"
