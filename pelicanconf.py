@@ -38,6 +38,14 @@ FOOTER = ("Este sitio web funciona gracias a <a href='https://getpelican.com'>Pe
           "un gestor de contenido desarrollado en <a href='https://python.org'>Python</a> y "
           "utiliza la plantilla <a href='https://github.com/ivanhercaz/buruma'>Buruma</a>.")
 
+LICENSE = True
+LICENSE_NOTICE = ("<p><a rel='license' href='https://creativecommons.org/licenses/by-sa/4.0/'>"
+                  "<img alt='Licencia Creative Commons' style='border-width: 0'"
+                  "src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></a><br />Esta "
+                  "obra está bajo una licencia <a rel='license' class='license-text'"
+                  "href='https://creativecommons.org/licenses/by-sa/4.0'>Creative Commons "
+                  "Atribución-CompartirIgual 4.0 Internacional</a>.")
+
 PLUGIN_PATHS = ["plugins"]
 
 PLUGINS = ["i18n_subsites"]
