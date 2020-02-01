@@ -27,6 +27,12 @@ JINJA_ENVIRONMENT = {
     "extensions": ["jinja2.ext.i18n"]
 }
 
+# Buruma customization
+
+MENUITEMS_NAVBAR = (("Inicio", SITEURL),
+                    ("Introducción", "introduccion.html"),
+                    ("Módulos", "modulos.html"))
+
 PLUGIN_PATHS = ["plugins"]
 
 PLUGINS = ["i18n_subsites"]
@@ -52,3 +58,4 @@ DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
