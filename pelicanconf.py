@@ -13,7 +13,7 @@ TIMEZONE = "Atlantic/Canary"
 
 DEFAULT_LANG = "es"
 
-THEME = "/home/ivanhercaz/Apps/buruma"
+THEME = "buruma"
 THEME_LOGO = False
 
 JINJA_ENVIRONMENT = {
