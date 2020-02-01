@@ -11,6 +11,7 @@ OUTPUT_PATH = "sitio"
 
 TIMEZONE = "Atlantic/Canary"
 
+I18N_TEMPLATES_LANG = 'en'
 DEFAULT_LANG = "es"
 
 THEME = "buruma"
