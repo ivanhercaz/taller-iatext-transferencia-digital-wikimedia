@@ -1,4 +1,15 @@
 # Taller de transferencia digital y conocimiento libre para investigadores: proyectos Wikimedia, Scholia, ORCID y Source MetaData
+<p>
+  <a href="https://app.netlify.com/sites/taller-iatext/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/6c090a7e-4513-424c-b355-f4c11d83d4c3/deploy-status" alt="Netlify Status">
+  </a>
+  <a href="https://gitmoji.carloscuesta.me">
+    <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+  </a>
+  <a href="https://github.com/frinyvonnick/gitmoji-changelog">
+    <img src="https://img.shields.io/badge/Changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
+  </a>
+</p>
 
 Taller de introducción al conocimiento libre y enlazado a partir del uso de los
 proyectos Wikimedia, de herramientas como Scholia y Source MetaData, y de
