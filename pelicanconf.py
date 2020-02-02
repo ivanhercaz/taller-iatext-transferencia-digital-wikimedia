@@ -9,6 +9,8 @@ SITEURL = "https://taller-iatext.ivanhercaz.com"
 PATH = "taller"
 OUTPUT_PATH = "sitio"
 
+STATIC_PATHS = ["taller/assets"]
+
 ARTICLE_URL = "{date:%Y}/{slug}.html"
 ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
 ARTICLE_PATHS = ["blog"]
