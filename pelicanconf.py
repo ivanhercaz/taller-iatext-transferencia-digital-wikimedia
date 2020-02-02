@@ -9,14 +9,15 @@ SITEURL = "https://taller-iatext.ivanhercaz.com"
 PATH = "taller"
 OUTPUT_PATH = "sitio"
 
-STATIC_PATHS = ["assets"]
-
 ARTICLE_URL = "{date:%Y}/{slug}.html"
 ARTICLE_SAVE_AS = "{date:%Y}/{slug}.html"
 ARTICLE_PATHS = ["blog"]
+ARTICLE_EXCLUDES = ["assets"]
 PAGE_URL = "{slug}.html"
 PAGE_SAVE_AS = "{slug}.html"
-PAGE_PATHS = ["."]
+PAGE_EXCLUDES = ["assets"]
+
+STATIC_PATHS = ["assets"]
 
 TIMEZONE = "Atlantic/Canary"
 
