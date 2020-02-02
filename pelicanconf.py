@@ -32,7 +32,8 @@ JINJA_ENVIRONMENT = {
 
 MENUITEMS_NAVBAR = (("Inicio", SITEURL),
                     ("Introducción", "introduccion.html"),
-                    ("Módulos", "modulos.html"))
+                    ("Módulos", "modulos.html"),
+                    ("Cronograma", "cronograma.html"))
 
 FOOTER = ("Este sitio web funciona gracias a <a href='https://getpelican.com'>Pelican</a>, "
           "un gestor de contenido desarrollado en <a href='https://python.org'>Python</a> y "
