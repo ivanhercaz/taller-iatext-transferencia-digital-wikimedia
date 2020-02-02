@@ -35,6 +35,13 @@ MENUITEMS_NAVBAR = (("Inicio", SITEURL),
                     ("Módulos", "modulos.html"),
                     ("Cronograma", "cronograma.html"))
 
+MENUITEMS_NAVBAR_FEATURED = (("Contactar",
+                              "https://ivanhercaz.com/p/contactar.html",
+                              "is-primary"),
+                             ("GitHub",
+                              "https://github.com/ivanhercaz/taller-iatext-transferencia-digital-wikimedia",
+                              "is-warning"))
+
 FOOTER = ("Este sitio web funciona gracias a <a href='https://getpelican.com'>Pelican</a>, "
           "un gestor de contenido desarrollado en <a href='https://python.org'>Python</a> y "
           "utiliza la plantilla <a href='https://github.com/ivanhercaz/buruma'>Buruma</a>.")
