@@ -15,6 +15,7 @@ ARTICLE_PATHS = ["blog"]
 ARTICLE_EXCLUDES = ["assets"]
 PAGE_URL = "{slug}.html"
 PAGE_SAVE_AS = "{slug}.html"
+PAGE_PATHS = ["informacion", "modulos"]
 PAGE_EXCLUDES = ["assets"]
 
 STATIC_PATHS = ["assets", "_redirects"]
