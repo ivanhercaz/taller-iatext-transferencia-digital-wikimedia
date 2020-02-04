@@ -28,7 +28,8 @@ Taller de introducción al conocimiento libre y enlazado a partir del uso de los
 El seguimiento se realizará a partir del campus virtual de la Universidad de Las
  Palmas de Gran Canaria, pero los materiales (diapositivas, documentos de apoyo,
  y tareas) se distribuirán bajo licencia Creative Commons Atribuir-CompartirIgual
- 4.0 en este repositorio y en el sitio web taller-iatext.ivanhercaz.com.
+ 4.0 en este sitio web y en el [repositorio de GitHub](https://github.com/taller-iatext-transferencia-digital-wikimedia)
+ que contiene todos los archivos.
 
-El taller será impartido por Iván Hernández Cazorla, historiador y wikimedista,
- miembro de [Wikimedia España](https://wikimedia.es).
+El taller será impartido por [Iván Hernández Cazorla](https://ivanhercaz.com),
+ historiador y wikimedista, miembro de [Wikimedia España](https://wikimedia.es).
