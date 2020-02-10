@@ -6,7 +6,7 @@ tags: información
 status: published
 slug: cronograma
 
-Cada módulo dura una semana de manera semipresencial y consta de:
+Cada módulo tiene una duración semanal, de carácter semipresencial, y consta de:
 
   - Una clase teórico-práctica.
   - Un cuestionario sobre la materia del módulo a realizar durante la semana.
