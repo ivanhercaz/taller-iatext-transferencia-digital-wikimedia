@@ -62,7 +62,7 @@ ABOUT_EXTRACT = ("Taller de introducción al conocimiento libre y enlazado a par
                  " los proyectos Wikimedia. <br>El principal objetivo es que los investigadores"
                  " del Instituto Universitario de Análisis y Aplicaciones Textuales tengan"
                  " nociones sobre conocimiento libre y las licencias Creative Commons compatibles,"
-                 " así como de los proyectos Wikimedia."
+                 " así como de los proyectos Wikimedia.")
 
 
 PLUGIN_PATHS = ["plugins"]
