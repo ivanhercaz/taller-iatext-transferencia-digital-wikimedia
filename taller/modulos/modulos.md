@@ -52,6 +52,7 @@ El taller se divide en 6 módulos destinados a la obtención de los objetivos me
   3. Cómo se puede contribuir y organizar actividades para la transferencia digital de conocimiento.
   4. Práctica. Crear un conjunto de elementos relacionados entre sí en Wikidata.
   5. Cuestionario.
+
 <!--
 ### 6. Comunidad científica enlazada. Uso científico de datos con herramientas como Orcid, Source MetaData y Scholia
 
