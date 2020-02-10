@@ -59,12 +59,10 @@ LICENSE_NOTICE = ("<p><a rel='license' href='https://creativecommons.org/license
                   "Atribución-CompartirIgual 4.0 Internacional</a>.")
 
 ABOUT_EXTRACT = ("Taller de introducción al conocimiento libre y enlazado a partir del uso de"
-                 " los proyectos Wikimedia, de herramientas como Scholia y Source MetaData, y de"
-                 " identificadores como ORCID.<br>El principal objetivo es que los investigadores del"
-                 " Instituto Universitario de Análisis y Aplicaciones Textuales tengan nociones"
-                 " sobre conocimiento libre y las licencias Creative Commons compatibles, los"
-                 " proyectos Wikimedia y herramientas como Scholia y Source MetaData, así como "
-                 " buenas prácticas para mantener actualizado el identificador ORCID.")
+                 " los proyectos Wikimedia. <br>El principal objetivo es que los investigadores"
+                 " del Instituto Universitario de Análisis y Aplicaciones Textuales tengan"
+                 " nociones sobre conocimiento libre y las licencias Creative Commons compatibles,"
+                 " así como de los proyectos Wikimedia."
 
 
 PLUGIN_PATHS = ["plugins"]
